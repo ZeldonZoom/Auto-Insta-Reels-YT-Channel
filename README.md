@@ -21,4 +21,14 @@ An automated solution for scraping Instagram reels and compiling them into YouTu
 git clone https://github.com/zeldonzoom/auto-insta-reels-yt-channel.git  
 cd auto-insta-reels-yt-channel
 ```
-###Install required packages:
+### Install required packages:
+```bash
+pip install moviepy  
+pip install pyttsx3  
+pip install instaloader  
+pip install instalooter  
+pip install google-auth-oauthlib  
+pip install google-api-python-client  
+```
+
+### Set up Google API credentials:
