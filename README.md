@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This tool should be used responsibly and in accordance with Instagram's and YouTube's terms of service and API usage guidelines.
 
 ## Acknowledgments
-This project was inspired by ["Making A Fully Automated Youtube Channel With Computer Science"](https://youtu.be/O-6kbagEmKA?si=VOR8SaLl4usf6WeW) by *nang* and the corresponding GitHub repository created by [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel). Their work served as a foundation and provided valuable insights for developing this solution.
+This project was inspired by ["Making A Fully Automated Youtube Channel With Computer Science"](https://youtu.be/O-6kbagEmKA?si=VOR8SaLl4usf6WeW) by [*nang*](https://www.youtube.com/@nang88) and the corresponding GitHub repository [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel). Their work served as a foundation and provided valuable insights for developing this solution.
