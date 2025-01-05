@@ -41,7 +41,7 @@ pip install google-api-python-client
 ```bash
 L.login('your_username', 'your_password')
 ```
-### onfigure YouTube upload settings in `setup_google.py`:
+### Configure YouTube upload settings in `setup_google.py`:
 ```bash
 request_body = {  
     'snippet': {  
@@ -68,9 +68,9 @@ python setup_google.py
 ```
 
 ## How It Works
-**Video Scraping**: The script logs into Instagram and downloads recent videos from profiles you follow.
-**Compilation**: Videos are randomly shuffled and concatenated with an intro video.
-**Upload**: The final video is automatically uploaded to YouTube with specified metadata.
+1. **Video Scraping**: The script logs into Instagram and downloads recent videos from profiles you follow.
+2. **Compilation**: Videos are randomly shuffled and concatenated with an intro video.
+3. **Upload**: The final video is automatically uploaded to YouTube with specified metadata.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
